@@ -12,7 +12,7 @@ func Body() *elements.Body {
 		Tag: "h1",
 		Attributes: []elements.Attribute{
 			{Name: "class", Value: "mt-10 text-center animate-bounce text-4xl font-bold"},
-			{Name: "innerHTML", Value: "Go Represent!"},
+			{Name: "innerHTML", Value: "Go Represent!!"},
 			{Name: "id", Value: "title"},
 		},
 	}
