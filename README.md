@@ -55,4 +55,4 @@ func main() {
 
 ```
 
-The watcher will automatically detect changes and rebuild your application. You can build on what i've built, but I plan on integrating typescript, docker, golang linting, writing tests and formatting soon.
+The watcher will automatically detect changes and rebuild your application. You can build on what i've built, but I plan on integrating typescript, docker, golang linting, writing tests, templ and formatting soon.
